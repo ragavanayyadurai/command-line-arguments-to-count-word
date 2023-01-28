@@ -32,7 +32,7 @@ print("word count in file = ",count)
 
 ```
 ### OUTPUT:
-![output](/output1.png)
+![output](/output2.png)
 
 
 ## RESULT:
