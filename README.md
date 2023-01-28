@@ -19,9 +19,9 @@ Give print.
 End of the program
 ## PROGRAM:
 ```python
-#Developed by: Ragavendran A
-#Register number: 22008885
 
+#Developed by: Ragavendran A
+#Reference number:22008885
 import sys
 count= 0
 with open(sys.argv[1],'r') as f1:
